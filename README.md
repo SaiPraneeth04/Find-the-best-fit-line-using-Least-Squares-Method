@@ -44,7 +44,7 @@ plt.show()
 ```
 
 ## Output:
-![output](/Screenshot%20(132).png)
+![output](/ml-1.png)
 
 
 ## Result:
